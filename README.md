@@ -37,3 +37,6 @@ Implementation Screenshots:
 ![image](https://github.com/ShreeVishal/Mini-Project/assets/93562563/a697b45d-f080-403c-b794-85362aea7e46)
 ![image](https://github.com/ShreeVishal/Mini-Project/assets/93562563/b65b43c9-4c3d-4e59-b520-e91cec80de2c)
 
+4) Server Module (Realtime Database with Google Firebase)
+
+![image](https://github.com/ShreeVishal/Mini-Project/assets/93562563/dbf60076-7217-4700-99ec-e793ff98820e)
